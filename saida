@@ -1,0 +1,1 @@
+ ** (ciscodump:40463) 09:15:59.634676 [ciscodump WARNING] ./extcap/ciscodump.c:2146 -- ssh_open_remote_connection(): Error creating output file: Interrupted system call
